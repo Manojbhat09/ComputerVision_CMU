@@ -7,4 +7,4 @@ Filters used: The filters are: (1) Gaussian, (2) Laplacian of Gaussian, (3) deri
 Scales: The 5 scales are 1, 2, 4, 8, and 8 √ 2, in pixel units.
 
 
-Accuracy achieved: 56%
+Accuracy achieved: 70%
